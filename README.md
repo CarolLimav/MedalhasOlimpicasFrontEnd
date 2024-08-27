@@ -1,4 +1,4 @@
-# Sistema de Visualização do Quadro de Medalhas das Olimpíadas
+# Sistema de Visualização do Quadro de Medalhas das Olimpíadas de Paris 2024
 
 # Disciplina: Programação Web
 
