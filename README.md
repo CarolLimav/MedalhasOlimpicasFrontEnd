@@ -27,3 +27,11 @@ Este projeto visa o desenvolvimento de um sistema web completo que permite aos u
 # Frontend
 - Framework: React.js
 - Ferramentas de Estilo: CSS/Bootstrap
+
+# Telas
+![Tela](login.png)
+![Tela](Home1-olimpiadas.png)
+![Tela](home2olimpiadas.png)
+![Tela](home3olimpiadas.png)
+![Tela](cadastrarmedalha.png)
+
