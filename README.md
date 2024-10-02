@@ -22,7 +22,7 @@ Este projeto visa o desenvolvimento de um sistema web completo que permite aos u
 - Framework: Spring Boot
 - Banco de Dados: PostgreSQL
 - Mensageria: RabbitMQ
-- Repositório para acesso ao códido do BackEnd: https://github.com/CarolLimav/MedalhasOlimpicasBackEnd
+- Repositório para acesso ao código do BackEnd: https://github.com/CarolLimav/MedalhasOlimpicasBackEnd
 
 # Frontend
 - Framework: React.js
